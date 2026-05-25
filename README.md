@@ -30,7 +30,6 @@ Route comparison — The Loop → Pilsen, Chicago:
 
 ![Evaluation Dashboard](evaluation_dashboard.png)
 
-Interactive map (open in browser): pothole_route_map_chicago.html
 
 ---
 
