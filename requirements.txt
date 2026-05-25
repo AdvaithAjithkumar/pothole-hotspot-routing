@@ -1,0 +1,12 @@
+pyspark==3.5.1
+osmnx
+networkx
+folium
+tqdm
+scikit-learn
+numpy
+pandas
+matplotlib
+requests
+pathlib
+ 
