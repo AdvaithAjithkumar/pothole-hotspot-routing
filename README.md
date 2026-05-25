@@ -28,7 +28,7 @@ The key contribution: no existing published work (surveyed across 10 indexed pap
 
 Route comparison — The Loop → Pilsen, Chicago:
 
-![Evaluation Dashboard](assets/evaluation_dashboard.png)
+![Evaluation Dashboard](evaluation_dashboard.png)
 
 Interactive map (open in browser): `outputs/pothole_route_map_chicago.html`
 
